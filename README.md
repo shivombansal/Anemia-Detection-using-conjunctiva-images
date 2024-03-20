@@ -23,14 +23,17 @@ The project employs machine learning techniques, specifically utilizing the Rand
 Overall, this individual project aims to develop an effective and accurate AI-based solution for anemia detection using conjunctiva images. By leveraging machine learning algorithms and rigorous evaluation methods, the project seeks to contribute to early diagnosis and intervention in individuals at risk of anemia.
 
 Accuracy on Test Data: 0.9047619047619048
-Classification Report:
-               precision    recall  f1-score   support
 
+Classification Report:
+
+               precision    recall  f1-score   support
+               
           No       0.94      0.94      0.94        16
          Yes       0.80      0.80      0.80         5
 
     accuracy                           0.90        21
-   macro avg       0.87      0.87      0.87        21
-weighted avg       0.90      0.90      0.90        21
+    macro avg       0.87      0.87      0.87        21
+    weighted avg       0.90      0.90      0.90        21
+
 
 Mean Cross-Validation Accuracy: 0.848076923076923
